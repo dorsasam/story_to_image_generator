@@ -15,4 +15,4 @@ This repository contains the code developed during the Conversational AI worksho
 
 ## Credits
 This project was developed as part of the Conversational AI Workshop held in July 2024. 
-Special thanks to @SaM-92 for organizing this insightful program.
+Special thanks to [Dr. Saeed Misaghian](https://github.com/SaM-92) for organizing this insightful program.
